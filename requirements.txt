@@ -1,0 +1,4 @@
+PyYAML 
+pycryptodome 
+websockets 
+cryptography 
